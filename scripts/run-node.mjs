@@ -1,3 +1,4 @@
+/// Self-augmentation: Coder agent added this comment to verify the O-C-A loop.
 #!/usr/bin/env node
 import { spawn, spawnSync } from "node:child_process";
 import fs from "node:fs";
